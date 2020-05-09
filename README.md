@@ -11,8 +11,4 @@ The RESTful API fetches Salaries Name and positions of Policeman from their Depa
 
 Demonstration Video: https://screencast-o-matic.com/watch/cYhQYzgwst
 
-Run following commands:
 
-pip install -r requirements.txt
-
-python app.py
